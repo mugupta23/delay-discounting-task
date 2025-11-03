@@ -1,0 +1,1 @@
+Code for how to calculate the average earnings and the number of times the more delayed versus less-delayed option was chosen from data collected from 2 participants that completed a delay discounting task.
